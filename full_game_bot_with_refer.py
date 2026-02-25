@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 BOT_TOKEN = "7492803380:AAED9EvIzOJJ7NII84OJUmtHJ-HijA3kCQQ"
-UPI_ID = "9341910565@ptyes"
+UPI_ID = "93uwhsd565@ptyes"
 ADMIN_USERNAME = "MANDAL4482"
 
 # Database setup
