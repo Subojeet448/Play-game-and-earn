@@ -1,4 +1,3 @@
-mcproto
-pycryptodome
+javascript
+flask
 colorama
-bedrock-protocol
